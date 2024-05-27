@@ -15,3 +15,9 @@ The Only Tool You need for Web Pentester Testing.
   <li>Custom Scan 25+ Sub-Tools</li>
   <li>Bug Search 5+ Sub-Tools</li>
 </ul>
+
+# OS
+Compatible with All OS but Python and Modules must be installed
+
+# Install
+git clone https://github.com/DeveloperRishi/Ghost-Seeker.git
