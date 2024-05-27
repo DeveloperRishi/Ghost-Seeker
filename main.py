@@ -463,7 +463,6 @@ while True:
     print("5. Quick Scan")
     print("6. Custom Scan")
     print("7. Bug Search")
-    print("8. Web Payload Maker")
     query = input("\n" + Fore.YELLOW + "[+] Enter your choice: " + Style.RESET_ALL)
 
     if query == "1":
